@@ -1,47 +1,35 @@
-<div align="center">
+<table>
+<tr>
+<td width="170" valign="top">
+<img src="https://afshinbigboy.github.io/img/profile.jpg" width="150" alt="Afshin Bozorgpour">
+</td>
+<td valign="top">
 
-<img src="https://afshinbigboy.github.io/img/profile.jpg" width="130" style="border-radius:50%" alt="Afshin Bozorgpour">
+### Hi, I'm Afshin 👋
+I work on computer vision and machine learning at the University of Regensburg, Germany. I like models that are small, honest, and useful where data is hard.
 
-# Hi, I'm Afshin 👋
+[Website](https://afshinbigboy.github.io) · [Google Scholar](https://scholar.google.com/citations?user=OUZkcNsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/afshin-bozorgpour-b293014b/) · [X-MindFlow](https://github.com/xmindflow)
 
-**Computer vision & machine learning researcher** · University of Regensburg 🇩🇪
+</td>
+</tr>
+</table>
 
-Efficient visual learning · vision-language models · agents · 3D
+### What I'm into
 
-[![Website](https://img.shields.io/badge/Website-afshinbigboy.github.io-1f6feb?style=flat-square)](https://afshinbigboy.github.io)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-2600%2B%20citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=OUZkcNsAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afshin%20Bozorgpour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshin-bozorgpour-b293014b/)
-[![Contact](https://img.shields.io/badge/Contact-Write%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://afshinbigboy.github.io/#contact)
+- 🩻 Efficient segmentation and classification for medical imaging and pathology
+- 💬 Grounded vision-language models and report generation (my main focus now)
+- ⚡ Making big models cheaper: low-rank, quantization, state-space models
+- 🤖 Agents for vision pipelines, and 🧊 3D point clouds
 
-</div>
+### Some of my work
 
-## About
+- **[CENet](https://github.com/xmindflow/cenet)** · context enhancement for segmentation, MICCAI 2025
+- **[DermoSegDiff](https://github.com/xmindflow/DermoSegDiff)** · boundary-aware diffusion for skin lesions, MICCAI PRIME 2023
+- **[LHU-Net](https://github.com/xmindflow/LHUNet)**, **[MSA²Net](https://github.com/xmindflow/MSA-2Net)**, **[DAE-Former](https://github.com/xmindflow/DAEFormer)** · efficient segmentation architectures (co-author)
+- **[Awesome Mamba](https://github.com/xmindflow/Awesome_Mamba)** and **[Foundation Models in Medical Imaging](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging)** · curated reading lists
 
-I work on computer vision and machine learning under [Prof. Dorit Merhof](https://www.uni-regensburg.de/). My research so far has focused on efficient architectures for segmentation and classification (CNN/Transformer hybrids, Vision-LSTM and state-space models, diffusion), with applications in medical imaging and computational pathology. Before that: geometric vision and tracking for sports video, trajectory prediction, and animal pose modeling.
+### Let's work together
 
-I'm now moving toward **vision-language models, LLM-based agents, report generation, generative models, and 3D / point-cloud learning and rendering**.
+If you're a motivated student or researcher who wants to write a good paper, I'd love to hear from you. Tell me a bit about yourself, link some code you've written, and say what you'd like to explore. Remote is fine.
 
-## Selected work
-
-| Project | Venue | Code / Paper |
-|---|---|---|
-| **MaLViL**: multi-axis low-rank Vision-LSTM for segmentation | MICCAI MLMI 2026 | [paper](https://arxiv.org/abs/2608.17635) |
-| **HemaHier**: lineage-aware hierarchical bone-marrow cytology | MICCAI COMPAYL 2026 | [paper](https://arxiv.org/abs/2609.12835) |
-| **CENet**: context enhancement network for segmentation | MICCAI 2025 | [code](https://github.com/xmindflow/cenet) · [paper](https://papers.miccai.org/miccai-2025/0141-Paper2882.html) |
-| **DermoSegDiff**: boundary-aware segmentation diffusion model | MICCAI PRIME 2023 | [code](https://github.com/xmindflow/DermoSegDiff) · [paper](https://arxiv.org/abs/2308.02959) |
-| **DAE-Former**, **LHU-Net**, **MSA²Net**, **deformableLKA** (co-authored) | MICCAI / BMVC / WACV | [xmindflow](https://github.com/xmindflow) |
-
-Curated lists I help maintain at [**xmindflow**](https://github.com/xmindflow): foundation models in medical imaging, state-space models (Mamba) in medical image analysis, transformers in medical imaging, implicit neural representations.
-
-## What I'm exploring next
-
-- Vision-language models for grounded **report generation**
-- LLM/VLM-based **agents** for perception and analysis pipelines
-- **3D** point-cloud learning and neural rendering
-- Efficient and hardware-aware models (quantization, sparsity, FPGA)
-
-## Collaboration
-
-I enjoy working with motivated students and early-career researchers on papers targeting CVPR, ICCV, ICLR, NeurIPS, MICCAI and similar venues. If one of the directions above matches your interests, write to me with a short note about your background and what you'd like to work on. Remote collaboration is welcome.
-
-📫 **Email: afshinbigboy [at] gmail [dot] com** · or use the [contact section](https://afshinbigboy.github.io/#contact) on my site.
+📫 afshinbigboy [at] gmail [dot] com · or via the [contact section](https://afshinbigboy.github.io/#contact) on my site
