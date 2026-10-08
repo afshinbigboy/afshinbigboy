@@ -1,18 +1,8 @@
-<table>
-<tr>
-<td width="170" valign="top">
-<img src="https://afshinbigboy.github.io/img/profile.jpg" width="150" alt="Afshin Bozorgpour">
-</td>
-<td valign="top">
+## Hi, I'm Afshin 👋
 
-### Hi, I'm Afshin 👋
 I work on computer vision and machine learning at the University of Regensburg, Germany. I like models that are small, honest, and useful where data is hard.
 
 [Website](https://afshinbigboy.github.io) · [Google Scholar](https://scholar.google.com/citations?user=OUZkcNsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/afshin-bozorgpour-b293014b/) · [X-MindFlow](https://github.com/xmindflow)
-
-</td>
-</tr>
-</table>
 
 ### What I'm into
 
